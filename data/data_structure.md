@@ -56,7 +56,7 @@ Bộ dữ liệu dùng để: Gán nhãn thực thể có tên (NER) trong văn 
   | **I-XXX** | Bên trong thực thể loại XXX |
   | **O**     | Không thuộc thực thể nào    |
 
-- Phân biệt 3 file
+- Phân biệt 3 file:
   📘 eng.train
 
         Tập huấn luyện
